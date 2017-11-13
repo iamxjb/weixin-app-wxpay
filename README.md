@@ -18,6 +18,12 @@
 
 # 开源协议：GPL v3
 
+# 镜像地址下载
+
+如果因为某些原因github无法访问，请通过如下镜像地址下载：
+
+https://gitee.com/iamxjb/weixin-app-wxpay
+
 
 # 安装的方法：
 
